@@ -1,0 +1,41 @@
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+nav {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+/* Article styles */
+article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+article h2 {
+    color: #007bff;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
